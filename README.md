@@ -4,8 +4,13 @@ https://unlockproject.com
 
 Mirror:
 https://unlockproject.xyz
-https://unlockproject.tk
-https://unlockproject.cf
-https://unlockproject.gq
-https://unlockproject.ga
+https://unlockproject.com
+https://unlockproject.bid
+https://unlockproject.us
+https://unlockproject.pw
+https://unlockproject.tech
+https://unlockproject.host
+https://unlockproject.download
+https://unlockproject.top
+https://unlockproject.win
 https://unlockproject.online
