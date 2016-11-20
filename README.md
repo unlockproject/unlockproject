@@ -12,7 +12,6 @@ https://unlockproject.pw<br/>
 https://unlockproject.tech<br/>
 https://unlockproject.top<br/>
 https://unlockproject.win<br/>
-https://unlockproject.online<br/>
 https://unlockproject.club<br/>
 https://unlockproject.loan<br/>
 https://unlockproject.men<br/>
